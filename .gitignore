@@ -1,1 +1,5 @@
 .idea
+.cache
+algotrader.egg-info
+__pycache__
+myvenv
